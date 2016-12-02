@@ -17,13 +17,13 @@ export default class basicTodo extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to my Basic Biotch Todo App!!
+          Welcome to my Basic Biotch todo app!!!!!
         </Text>
         <Text style={styles.instructions}>
-          You are so priviledged to benefit from my hard work.
+          You are a lucky to benefit from my hard work.
         </Text>
         <Text style={styles.instructions}>
-          You freakin freeloader.
+          FreeLoader. Figure it out.
         </Text>
         <Text style={styles.instructions}>
           Press Cmd+R to reload,{'\n'}
