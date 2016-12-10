@@ -23,7 +23,7 @@ export default class basicTodo extends Component {
           You are a lucky to benefit from my hard work.
         </Text>
         <Text style={styles.instructions}>
-          FreeLoader. Figure it out.
+          FreeLoader. Figure it out
         </Text>
         <Text style={styles.instructions}>
           Press Cmd+R to reload,{'\n'}
